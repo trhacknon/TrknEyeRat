@@ -27,7 +27,7 @@ def clear():
         system("clear")
 def msgs():
   clear()
-  msg=f"{Fore.LIGHTGREEN_EX}Be {Fore.LIGHTWHITE_EX}our {Fore.LIGHTRED_EX}voice 🇮🇷\n{Fore.GREEN}#opIRAN  {Fore.LIGHTWHITE_EX}#free_jadi  {Fore.LIGHTRED_EX}#mahsaamini\n\n{Fore.LIGHTCYAN_EX}-Adolf Macro"
+  msg=f"{Fore.LIGHTGREEN_EX}Be {Fore.LIGHTWHITE_EX}our {Fore.LIGHTRED_EX}voice 🇮🇷\n{Fore.GREEN}#opIRAN  {Fore.LIGHTWHITE_EX}#free_jadi  {Fore.LIGHTRED_EX}#anonymous\n\n{Fore.LIGHTCYAN_EX}-trhacknon"
   buff=""
   for i in msg:
     clear()
@@ -53,7 +53,7 @@ def main():
      {Fore.LIGHTBLACK_EX}|  /\/\/\   \  {Fore.CYAN}╚══════╝   ╚═╝   ╚══════╝   ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   {Fore.RESET}
 {Fore.LIGHTBLACK_EX}     J /      `.__\                                                         
 {Fore.LIGHTBLACK_EX}     |/         /  \                                                        
-      \\      .'`.  `.                                            .'         
+      \\      .'`.  `.                        by trhacknon        .'         
     ____)_/\_(____`.  `-._______________________________________.'/         
    (___._/  \_.___) `-.________________________________________.-'          
 
@@ -96,13 +96,13 @@ def main():
     input("""
       _---~~(~~-_.
     _{        )   )         
-  ,   ) -~~- ( ,-' )_       Hi, I'm Mani
+  ,   ) -~~- ( ,-' )_       Hi, I'm Trhacknon
  (  `-,_..`., )-- '_,)      You can get my complete information from this site:
-( ` _)  (  -~( -_ `,  }     https://adolfmacro.github.io/mani/
+( ` _)  (  -~( -_ `,  }     https://trhacknon.github.io/
 (_-  _  ~_-~~~~`,  ,' )     
-  `~ -^(    __;-,((()))     My GitHub Address: https://github.com/adolfmacro
-        ~~~~ {_ -_(())      E-mail : m4nikamran@gmail.com
-               `\  }        Telegram : https://t.me/manikamran
+  `~ -^(    __;-,((()))     My GitHub Address: https://github.com/trhacknon
+        ~~~~ {_ -_(())      E-mail : jeremydiliotti@gmail.com
+               `\  }        Telegram : https://t.me/trhacknon
                  { }      
     
     
