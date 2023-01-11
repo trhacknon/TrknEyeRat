@@ -4,7 +4,7 @@ from requests import get
 from os import system , chdir
 def mainUpdater():
     UPtDATE=None
-    vsersionNum=get("https://raw.githubusercontent.com/AdolfMacro/eyeRat/main/VERSION.txt").text
+    vsersionNum=get("https://raw.githubusercontent.com/trhacknon/eyeRat/main/VERSION.txt").text
     if not vsersionNum==open(f'{__file__.replace("tools/updater.py","")}VERSION.txt','r').read():
         UPtDATE=False
     else :
