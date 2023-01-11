@@ -115,5 +115,5 @@ if __name__=='__main__':
     try:
       main()
     except KeyboardInterrupt:
-      print(f"\n\n{Fore.RED}ヽ(･_･)/{Fore.CYAN} CTR-C {Fore.RED}\(･_･)/{Fore.RESET}")
+      print(f"\n\n{Fore.RED}ヽ(･_･)/{Fore.CYAN} CTRL-C {Fore.RED}\(･_･)/{Fore.RESET}")
       break
